@@ -1,9 +1,11 @@
 {
   "name": "decade-out",
   "description": "Set huge timeouts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
-  "files": ["dist/"],
+  "files": [
+    "dist/"
+  ],
   "license": "MIT",
   "scripts": {
     "build": "cosmo build",
@@ -17,7 +19,11 @@
     "precommit": "lint-staged"
   },
   "lint-staged": {
-    "*.js": ["cosmo format -f", "cosmo lint -f", "git add"]
+    "*.js": [
+      "cosmo format -f",
+      "cosmo lint -f",
+      "git add"
+    ]
   },
   "eslintConfig": {
     "extends": "cosmo"
