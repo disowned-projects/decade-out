@@ -1,6 +1,6 @@
 # decade-out
 
-[![Build Status](https://travis-ci.org/doshisid/decade-out.svg?branch=master)](https://travis-ci.org/doshisid/decade-out) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/doshisid/decade-out/issues) [![HitCount](http://hits.dwyl.io/doshisid/decade-out.svg)](http://hits.dwyl.io/doshisid/decade-out) [![npm](https://img.shields.io/npm/v/decade-out.svg)](https://www.npmjs.com/package/decade-out) [![npm](https://img.shields.io/npm/l/decade-out.svg)](https://www.npmjs.com/package/decade-out)
+[![Build Status](https://travis-ci.org/sidoshi/decade-out.svg?branch=master)](https://travis-ci.org/sidoshi/decade-out) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sidoshi/decade-out/issues) [![HitCount](http://hits.dwyl.io/sidoshi/decade-out.svg)](http://hits.dwyl.io/sidoshi/decade-out) [![npm](https://img.shields.io/npm/v/decade-out.svg)](https://www.npmjs.com/package/decade-out) [![npm](https://img.shields.io/npm/l/decade-out.svg)](https://www.npmjs.com/package/decade-out)
 
 > Set huge timeouts
 
